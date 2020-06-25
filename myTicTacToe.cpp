@@ -152,7 +152,7 @@ class game{
 
 
 
-		int minimax(char board[5][5], int depth, bool isMax,char player){
+	int minimax(char board[5][5], int depth, bool isMax,char player){
 
             char opponent;
             if(player=='X'){opponent='O';}
