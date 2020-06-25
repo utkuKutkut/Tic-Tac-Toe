@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
-Tic Tac Toe game with Minimax Algorithm.
-gfgfgf
+Multiplayer or single player playable Tic-Tac-Toe game. Implemented with C++.
+
